@@ -1,0 +1,232 @@
+Total extracted NP phrases: 26310
+Matches in trait dictionary: 229
+Matched terms:
+plateletcrit
+tibia
+loin muscle area
+bacterial infection
+meat ph
+heart
+interferon
+concentration
+time
+egg size
+shank diameter
+body
+amount
+teat number
+immune response
+backfat thickness
+total body
+protein
+rib fat
+milk protein content
+lung
+reproductive system
+vertebral column
+growth
+egg production
+behavior
+thymus
+clean wool yield
+net feed efficiency
+homeostasis
+ribeye area
+balance
+cortical bone
+infection
+testis weight
+gizzard weight
+teat
+ovulation rate
+heart weight
+ap
+milk fat
+height
+adipose tissue
+platelet count
+liver
+foot angle
+milk protein
+mineral homeostasis
+meat
+horn number
+loin yield
+blood
+oleic acid
+egg
+uterine length
+skeletal muscle
+heart girth
+small intestine
+semimembranosus muscle
+weight
+body weight
+mammary gland development
+mean platelet volume
+milk protein percentage
+flavor score
+egg weight
+antibody
+testis
+production
+skeletal system
+blood cholesterol
+respiratory system
+stearic acid
+fetal growth
+pulmonary artery pressure
+sympathetic nervous system
+gestation length
+abomasum
+litter
+bone
+breeding
+serum albumin
+bone structure
+bone strength
+temperament
+tail
+residual feed intake
+metabolism
+muscle
+scs
+eye
+area
+bw
+social behavior
+t4
+pregnancy rate
+count
+taste
+carcass weight
+reproduction
+nervous system development
+ejaculation duration
+consumption
+semen volume
+cecum
+body height
+mammary gland
+hypothalamus
+male fertility
+meat tenderness
+pancreas
+feather pigmentation
+gamete
+eye development
+litter size
+longissimus muscle
+myocardial infarction
+non-return rate
+yield
+percentage
+intramuscular fat
+birth
+maternal behavior
+igg1
+head
+leg muscle
+level
+fertility
+carcass
+loin eye area
+vertebrae
+digestive function
+feed conversion ratio
+body size
+milk composition
+diameter
+cardiovascular disease
+ossification
+obesity index
+connective tissue
+length
+fat depth
+trait
+longissimus dorsi muscle area
+tlr2
+immune system
+scrotal circumference
+semen
+egg yolk
+shank length
+abdominal fat
+insulin secretion
+ham
+semimembranosus
+milk
+purge loss
+rdw
+female fertility
+abnormal sperm
+ovulation
+colostrum
+abdominal fat weight
+vertebra
+food intake
+parturition
+milk mineral content
+thickness
+milk yield
+fatty acid
+shoulder
+breast muscle
+fat
+total protein
+ear size
+small intestine weight
+offspring
+somatic cell score
+number
+horn length
+ability
+tibia length
+backfat
+normal sperm
+gestation
+comb mass
+subcutaneous fat
+linolenic acid
+lactose yield
+sperm motility
+postnatal growth
+thoracic vertebra
+body conformation
+fat thickness
+longissimus dorsi muscle
+placenta
+feather tract
+intramuscular fat content
+hip
+dressing percentage
+nipple number
+loin
+rumen
+linoleic acid
+survival
+glucose metabolism
+intermuscular fat
+lipid metabolism
+carcass length
+content
+mortality
+wing weight
+natural killer cell
+brain
+lactation
+red blood cell
+shank
+body length
+strength
+differential white blood cell
+subcutaneous fat thickness
+egg number
+response
+parasitic infection
+testes
+meat color
+ham weight
+stillbirth
+femur weight
+feed conversion

@@ -1,0 +1,145 @@
+Total extracted phrases (up to 5-gram): 7092
+Matches in trait dictionary: 142
+Matched terms:
+litter size
+loin muscle area
+back fat
+fatty acid
+meat ph
+egg size
+milk fatty acid
+shank diameter
+skeletal muscle
+heart girth
+loin eye
+small intestine
+body weight gain
+thoracic vertebrae
+longissimus muscle
+breast muscle
+palmitoleic acid
+semimembranosus muscle
+teat number
+non-return rate
+ear size
+body weight
+embryonic development
+serum lipid
+immune response
+intramuscular fat
+backfat thickness
+milk protein percentage
+maternal behavior
+lumbar vertebrae
+number stillborn
+somatic cell score
+egg weight
+leg muscle
+horn length
+innate immune response
+chest circumference
+udder morphology
+tibia length
+back fat thickness
+breast muscle weight
+comb mass
+loin eye area
+shoulder weight
+corpora lutea
+subcutaneous fat
+lactose yield
+sperm motility
+postnatal growth
+thoracic vertebra
+body conformation
+muscle fiber
+fat thickness
+milk somatic cell score
+longissimus dorsi muscle
+egg production
+feed conversion ratio
+bone mineral
+nervous system
+conception rate
+body size
+rib eye
+milk composition
+intramuscular fat content
+clean wool yield
+stearic acid
+milk urea
+feather pecking
+chest depth
+ribeye area
+fetal growth
+cortical bone
+dressing percentage
+connective tissue
+body mass
+muscle area
+fat depth
+nipple number
+gestation length
+wound healing
+linoleic acid
+longissimus dorsi muscle area
+serum leptin
+tenderness score
+bone density
+immune system
+scrotal circumference
+testis weight
+lipid metabolism
+gizzard weight
+carcass length
+chest girth
+bone strength
+chest width
+eye muscle
+milk fat percentage
+ovulation rate
+udder depth
+shank length
+abdominal fat
+heart weight
+longissimus dorsi
+longissimus thoracis
+plasma cortisol
+residual feed intake
+milk fat
+red blood cell
+energy balance
+hip width
+body length
+loin muscle
+adipose tissue
+social behavior
+female fertility
+abnormal sperm
+milk protein
+total number born
+subcutaneous fat thickness
+egg number
+pregnancy rate
+abdominal fat weight
+carcass weight
+nervous system development
+loin yield
+semen volume
+body height
+mammary gland
+muscle weight
+meat color
+oleic acid
+ham weight
+glycolytic potential
+male fertility
+meat tenderness
+leaf fat
+milk yield
+liver weight
+energy metabolism
+antibody response
+skin thickness
+feed conversion
+feeding behavior

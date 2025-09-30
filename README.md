@@ -1,6 +1,6 @@
 # Automated-Terminology-Mining-in-Animal-QTL-Research
 
-## 📖 Background  
+## Background  
 Thanks to technological advances, animal geneticists have an ever-expanding tool chest with which to study the inheritance of traits in livestock and improve production. With the rise of high-throughput technology, vast amounts of genotype/phenotype data are being rapidly generated.  
 
 Animal QTLdb and other genotype/phenotype databases would greatly benefit from automated and expedited curation tools. While it is well recognized that the adoption of controlled vocabularies and ontologies facilitates data integration and reuse, extracting such terms from scientific texts automatically remains a challenge.  
